@@ -15,5 +15,3 @@ for i in range(b+1):
     elif c%3 == 0:
         print(b+(c//3))
         break
-
-    
